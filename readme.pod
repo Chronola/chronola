@@ -1,12 +1,60 @@
+use strict;
+
 =encoding utf8
 
-=head3 Welcome to my GitHub profile :3
-
 =begin html
- 
+
+<h1 align="center">Welcome to my GitHub profile 👋(´｡• ω •｡`)</h1>
+<h3 align="center">I'm a passionate frontend developer from India</h3>
+
+<h3>- 🌱 I’m currently learning <strong>C++</strong></h3>
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://twitter.com/coffeecrab88" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" alt="coffeecrab88" height="30" width="88" /></a>
+<a href="https://discord.gg/aMacyE8g" target="blank"><img align="center" src="https://static.wikia.nocookie.net/logopedia/images/b/b5/Discord_Icon_%28Shadowed%29.png/revision/latest?cb=20220904004112" alt="aMacyE8g" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+=for comment
+Table alignment
+
+<p align="left">
+<a href="https://www.erlang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+<a href="https://www.cpan.org/" target="_blank" rel="noreferrer"><img src="https://iconape.com/wp-content/files/ap/89239/svg/perl-1.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
+<a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/></a>
+</p>
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chronola&show_icons=true&locale=en&layout=compact" alt="chronola"/></p>
+
+<hr>
+
+
+<p align="left">
+<img src="https://hellokitty.agency/88/hello_kitty.gif" alt="" width="88" height="31">
+
+<img src="https://hellokitty.agency/88/cpp.gif" alt="" width="88" height="31">
+<img src="https://hellokitty.agency/88/js.gif" alt="" width="88" height="31">
+<img src="https://hellokitty.agency/88/sdl.gif" alt="" width="88" height="31">
+<img src="https://hellokitty.agency/88/nodrugs.gif" alt="" width="88" height="31">
+<img src="https://hellokitty.agency/88/88x31_mytouhoupage.gif" alt="" width="88" height="31">
+<img src="q/ruby.gif" alt="" width="88" height="31">
+<img src="q/ppc.gif" alt="" width="88" height="31">
+
 <img src="https://hellokitty.agency/88/hackerpowered.gif" alt="" width="88" height="31">
+</p>
 
 =end html
+
+=for comment
+88 Hello Kitty
 
 =begin text
 
