@@ -7,5 +7,6 @@
  
 ^^^^ Figure 1. ^^^^
  
+
 =end text
 =encoding utf8
