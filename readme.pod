@@ -11,3 +11,4 @@
 ⠀⠀⠀⠀⠀⠉⠙⠛⠛⠓⠒⠒⠒⠚⠛⠛⠉⠁⠀⠀⠀⠀
 
 =end text
+=encoding utf8
