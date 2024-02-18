@@ -1,4 +1,4 @@
-=begin text
+=begin roff
  
   ---------------
   |  foo        |
@@ -8,5 +8,5 @@
 ^^^^ Figure 1. ^^^^
  
 
-=end text
+=end roff
 =encoding utf8
