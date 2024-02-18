@@ -11,4 +11,4 @@
   
 =end text
 
-=encoding utf8
+=encoding ascii
