@@ -17,6 +17,10 @@ use strict;
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
+
+=for comment
+Table alignment
+
 <table border=10 frame=void rules=rows align="center">
 <p align="left">
 <tr>
@@ -34,14 +38,7 @@ use strict;
 </p>
 </table>
 
-=for comment
-Table alignment
-
-<table border=42 align="center">
-<tr>
-<td><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chronola&show_icons=true&locale=en&layout=compact" alt="chronola"/></p></td>
-</tr>
-</table>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chronola&show_icons=true&locale=en&layout=compact" alt="chronola"/></p>
 
 <hr>
 
