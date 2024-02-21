@@ -37,7 +37,7 @@ Table alignment
 <hr>
 
 
-<p align="left">
+<p align="center">
 <img src="https://hellokitty.agency/88/hello_kitty.gif" alt="" width="88" height="31">
 
 <a href="q/burn.png"><img src="https://hellokitty.agency/88/cpp.gif" alt="" width="88" height="31"></a>
