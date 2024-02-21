@@ -38,16 +38,33 @@ Table alignment
 
 
 <p align="center">
+<a href="https://github.com/Chronola">
 <img src="https://hellokitty.agency/88/hello_kitty.gif" alt="" width="88" height="31">
+</a>
 
 <a href="q/burn.png"><img src="https://hellokitty.agency/88/cpp.gif" alt="" width="88" height="31"></a>
+
+<a href="https://github.com/Chronola">
 <img src="https://hellokitty.agency/88/js.gif" alt="" width="88" height="31">
+</a>
+<a href="https://github.com/Chronola">
 <img src="https://hellokitty.agency/88/sdl.gif" alt="" width="88" height="31">
+</a>
+<a href="https://github.com/Chronola">
 <img src="https://hellokitty.agency/88/88x31_mytouhoupage.gif" alt="" width="88" height="31">
+</a>
+<a href="https://github.com/Chronola">
 <img src="https://hellokitty.agency/88/nodrugs.gif" alt="" width="88" height="31">
+</a>
+<a href="https://github.com/Chronola">
 <img src="q/ruby.gif" alt="" width="88" height="31">
+</a>
+<a href="https://github.com/Chronola">
 <img src="q/ppc.gif" alt="" width="88" height="31">
+</a>
+<a href="https://github.com/Chronola">
 <img src="https://hellokitty.agency/88/hackerpowered.gif" alt="" width="88" height="31">
+</a>
 </p>
 
 =end html
